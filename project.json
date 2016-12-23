@@ -66,6 +66,6 @@
   },
 
   "tooling": {
-    "defaultNamespace": "FirstASPnetCore"
+    "defaultNamespace": "FirstASPnetCoreApp"
   }
 }
